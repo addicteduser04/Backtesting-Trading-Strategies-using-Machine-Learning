@@ -995,8 +995,3 @@ elif page == "📈 Backtesting":
 
 # ==================== FOOTER ====================
 st.sidebar.markdown("---")
-st.sidebar.info("""
-**Mini-Projet ENSIAS**
-Ingénierie des données
-Semestre 3 - 2025
-""")
