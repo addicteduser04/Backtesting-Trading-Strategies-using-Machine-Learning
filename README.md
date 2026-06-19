@@ -252,6 +252,6 @@ app/
 
 ---
 
-**Auteur:** Projet ENSIAS - S3 2025
+**Auteur:** Sifeddine EL KADIRI -
 **Date:** January 7, 2026
 **Status:** ✅ Fonctionnel et Testé
