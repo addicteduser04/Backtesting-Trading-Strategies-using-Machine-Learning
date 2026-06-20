@@ -167,7 +167,7 @@ certifi            # SSL certificates
 ### Installation
 
 ```bash
-cd "C:\Users\Random\Documents\ENSIAS\S3\P2\data preprocessing\project\app"
+git clone "https://github.com/addicteduser04/Backtesting-Trading-Strategies-using-Machine-Learning"
 pip install -r requirements.txt
 ```
 
